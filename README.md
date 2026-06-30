@@ -1,10 +1,10 @@
-# DCA Calculator 📈
+# DCA Calculator
 
 A modern, aesthetic, and highly functional web application for calculating Dollar Cost Averaging (DCA) strategies. Optimize your entry point and determine the exact capital needed to reach your target average cost.
 
 **Live Demo:** [http://dca-calc-dime.vercel.app/](http://dca-calc-dime.vercel.app/)
 
-## ✨ Features
+## Features
 
 - **Instant Profit/Loss Calculation**: Enter your cost per share and current price to instantly see your portfolio standing.
 - **DCA Planning**: Input your total invested capital and a target loss/profit percentage.
@@ -15,7 +15,7 @@ A modern, aesthetic, and highly functional web application for calculating Dolla
 - **Edge Case Handling**: Alerts you if a target percentage is mathematically impossible to reach based on current market prices.
 - **Premium UI/UX**: Built with a sleek dark mode, glassmorphism elements, and smooth micro-animations.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework**: [Next.js](https://nextjs.org/) (App Router)
 - **Styling**: [Tailwind CSS](https://tailwindcss.com/)
@@ -23,7 +23,7 @@ A modern, aesthetic, and highly functional web application for calculating Dolla
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Language**: TypeScript
 
-## 🚀 Getting Started
+## Getting Started
 
 First, run the development server:
 
@@ -39,6 +39,6 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 📝 License
+## License
 
 This project is open-source and available for anyone to use and modify.
